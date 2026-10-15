@@ -1,0 +1,13 @@
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\bin\Debug\net10.0\DirectoryService.Domain.deps.json
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\bin\Debug\net10.0\DirectoryService.Domain.dll
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\bin\Debug\net10.0\DirectoryService.Domain.pdb
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.csproj.AssemblyReference.cache
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.AssemblyInfoInputs.cache
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.AssemblyInfo.cs
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.sourcelink.json
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.dll
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\refint\DirectoryService.Domain.dll
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\DirectoryService.Domain.pdb
+F:\Projects\Learning\directory-service\backend\DirectoryService\src\DirectoryService.Domain\obj\Debug\net10.0\ref\DirectoryService.Domain.dll
