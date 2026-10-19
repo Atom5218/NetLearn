@@ -8,8 +8,6 @@ builder.Services.AddControllers();
 
 WebApplication app = builder.Build();
 app.MapGet("/", () => "DirectoryService is running!");
-// Minimal API endpoints
-app.MapGet("/", () => "TemplateService is running!");
 
 app.MapGet("/health", () => Results.Ok(new
 {
