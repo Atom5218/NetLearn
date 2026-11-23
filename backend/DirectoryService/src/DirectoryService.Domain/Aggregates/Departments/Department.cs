@@ -24,8 +24,6 @@ public sealed class Department
 
     public DepartmentId? ParentId { get; private set; }
 
-    public int ChildrenCount { get; private set; }
-
     public DateTime CreatedAt { get; private set; }
 
     public DateTime UpdatedAt { get; private set; }
@@ -46,7 +44,6 @@ public sealed class Department
         Slug = slug;
         Path = path;
         ParentId = parentId;
-        ChildrenCount = 0;
 
         var now = DateTime.UtcNow;
         CreatedAt = now;
@@ -85,7 +82,6 @@ public sealed class Department
         var child = childResult.Value;
 
         _childrenDepartments.Add(child.Id);
-        ChildrenCount++;
         UpdatedAt = DateTime.UtcNow;
 
         return child;

@@ -19,14 +19,16 @@ public record LocationName
     {
         if (string.IsNullOrWhiteSpace(value))
         {
-            return Errors.General.ValueIsRequired(value);
+            return Errors.General.ValueIsRequired(nameof(value));
         }
+
+        string trimmed = value.Trim();
 
         if (value.Length is < MinLength or > MaxLength)
         {
-            return Errors.General.ValueIsInvalid(value);
+            return Errors.General.ValueIsInvalid(nameof(value));
         }
 
-        return new LocationName(value);
+        return new LocationName(trimmed);
     }
 }
